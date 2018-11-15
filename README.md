@@ -1,7 +1,5 @@
 # element-quickstart
 
-This is fork from [element-starter](https://github.com/ElementUI/element-starter)
-
 ## How use
 
 ``` bash
@@ -9,8 +7,7 @@ This is fork from [element-starter](https://github.com/ElementUI/element-starter
 $ npm install -g vue-cli
 
 # 开始
-$ npm i element-quickstart
-$ vue init ./ my-project
+$ vue init yijian002/element-quickstart my-project
 
 $ cd my-project
 $ npm install
