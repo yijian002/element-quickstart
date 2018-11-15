@@ -1,0 +1,20 @@
+{
+  "name": "element-quickstart",
+  "version": "1.0.1",
+  "description": "element ui quickstart",
+  "scripts": {
+  	"docs": "cd docs && gitbook serve",
+  	"docs:deploy": "bash ./deploy-docs.sh"
+  },
+  "devDependencies": {
+  	"vue-cli": "^2.8.1"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "element",
+    "quickstart"
+  ],
+  "author": "Vic.Yang",
+  "license": "MIT"
+}
