@@ -1,5 +1,7 @@
 # element-quickstart
 
+[github/element-quickstart](https://github.com/yijian002/element-quickstart)
+
 ## How use
 
 ``` bash
